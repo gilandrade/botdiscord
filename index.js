@@ -1,4 +1,4 @@
-require('dotenv').config({ debug: process.env.DEBUG })
+//require('dotenv').config()
 const Discord = require("discord.js")
 const fs = require("fs")
 const client = new Discord.Client()
