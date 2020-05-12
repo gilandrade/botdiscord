@@ -7,13 +7,9 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "discord.js": "^11.4.2"
-  },
-  "gipphydependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^8.2.0",
     "giphy-js-sdk-core": "^1.0.6"
-  },
-  "dotenvdependencies": {
-    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
